@@ -1,0 +1,12 @@
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\bin\Debug\Quan_tri_HTTT.exe.config
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\bin\Debug\Quan_tri_HTTT.exe
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\bin\Debug\Quan_tri_HTTT.pdb
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.csproj.AssemblyReference.cache
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.csproj.SuggestedBindingRedirects.cache
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.fLogin.resources
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.Properties.Resources.resources
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.csproj.GenerateResource.cache
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.csproj.CoreCompileInputs.cache
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.exe
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.pdb
+D:\Winform\source\repos\Quan_tri_HTTT\Quan_tri_HTTT\obj\Debug\Quan_tri_HTTT.EventManager.resources
